@@ -1,0 +1,9 @@
+============Data Sewa PS=============
+Nama Penyewa : Bagus 
+Alamat : Palembang
+No Hp: 089752354811
+--------------------
+total bayar untuk Sewa PS
+Harga  : 30000
+Lama Sewa/hari : 5
+total : 150000.0
